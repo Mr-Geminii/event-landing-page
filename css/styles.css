@@ -1,0 +1,23 @@
+img{
+    height: 200px;
+    width:100%;
+}
+.jumbotron {
+    height: 400px;
+}
+
+.fa-brands {
+    font-size:20px;
+}
+
+#speakers {
+    height: 500px;
+}
+
+#tickets {
+    height: 250px;
+}
+
+#venue {
+    height: 400px;
+}
